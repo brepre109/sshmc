@@ -1,0 +1,1 @@
+{"description": "Midnight-Commander-style dual-pane file manager over SSH: reuses live sessions, rsync transfers, embedded shells", "topics": ["ssh", "tui", "file-manager", "golang", "tview", "rsync"], "homepage": ""}
