@@ -1,0 +1,14 @@
+# build outputs
+/go/sshmc
+/go/sshmc.exe
+/go/sshmc-*
+*.exe
+dist/
+# never commit keys
+*.pem
+*.key
+id_*
+# python
+__pycache__/
+*.pyc
+.venv/
